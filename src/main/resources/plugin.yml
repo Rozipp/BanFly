@@ -1,0 +1,6 @@
+name: BanFly
+version: '${version}'
+author: Rozipp
+main: ua.rozipp.banfly.BanFly
+description: "Каждый раз как игрок кладет что-то в инвентарь проверяет наличие елитров в слоте нагрудника. И если находит, то включает полет"
+api-version: 1.16
